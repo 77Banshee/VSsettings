@@ -2043,7 +2043,7 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_RAW" Source="FF262335" />
-        <Foreground Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF00F2E7" />
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2051,7 +2051,7 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_RAW" Source="FF262335" />
-        <Foreground Type="CT_RAW" Source="FF00FF00" />
+        <Foreground Type="CT_RAW" Source="FF00DD00" />
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2243,7 +2243,7 @@
       </Color>
       <Color Name="Literal">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDADADA" />
+        <Foreground Type="CT_RAW" Source="FF4BD948" />
       </Color>
       <Color Name="SymbolDefinitionClassificationFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2655,7 +2655,7 @@
       </Color>
       <Color Name="MarkerFormatDefinition/CommentHighlight">
         <Background Type="CT_RAW" Source="FF2D0037" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFAC00FF" />
       </Color>
       <Color Name="ReSharper Dead Code">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8493,11 +8493,11 @@
     <Category Name="Text Editor Language Service Items" GUID="{e0187991-b458-4f7e-8ca9-42c9a573b56c}">
       <Color Name="Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF0ED28" />
+        <Foreground Type="CT_RAW" Source="FFE2DD10" />
       </Color>
       <Color Name="Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9700FB" />
+        <Foreground Type="CT_RAW" Source="FFFB00F4" />
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8509,7 +8509,7 @@
       </Color>
       <Color Name="Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF97E5E" />
+        <Foreground Type="CT_RAW" Source="FF00FF00" />
       </Color>
       <Color Name="XML CData Section">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
