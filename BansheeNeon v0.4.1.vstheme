@@ -2254,8 +2254,8 @@
         <Foreground Type="CT_RAW" Source="FF7CA5A0" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF4F1C1C" />
-        <Foreground Type="CT_RAW" Source="FF1F1F37" />
+        <Background Type="CT_RAW" Source="FF930093" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="deltadiff.remove.line">
         <Background Type="CT_RAW" Source="FF2D0000" />
@@ -2454,7 +2454,7 @@
         <Foreground Type="CT_RAW" Source="FF825000" />
       </Color>
       <Color Name="CodeAnalysisKeyEventSelection">
-        <Background Type="CT_RAW" Source="FF808080" />
+        <Background Type="CT_RAW" Source="FF000080" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CodeAnalysisLineTraceSelection">
@@ -2526,7 +2526,7 @@
         <Foreground Type="CT_RAW" Source="FFCA79EC" />
       </Color>
       <Color Name="RoslynActiveStatementTag">
-        <Background Type="CT_RAW" Source="FF5A5A5A" />
+        <Background Type="CT_RAW" Source="FF008080" />
         <Foreground Type="CT_COLORINDEX" Source="00000002" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
@@ -8674,7 +8674,7 @@
         <Foreground Type="CT_RAW" Source="FFFF00FF" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF808080" />
+        <Background Type="CT_RAW" Source="FF008080" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -8836,8 +8836,8 @@
         <Foreground Type="CT_RAW" Source="FFFFDBA3" />
       </Color>
       <Color Name="Current Statement">
-        <Background Type="CT_RAW" Source="FF808080" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FFD90000" />
+        <Foreground Type="CT_RAW" Source="FFD2D200" />
       </Color>
       <Color Name="Executing Thread IP">
         <Background Type="CT_RAW" Source="FFD7BA7C" />
