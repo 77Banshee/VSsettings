@@ -2007,7 +2007,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD8A0DF" />
+        <Foreground Type="CT_RAW" Source="FF4EB194" />
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2218,7 +2218,7 @@
         <Foreground Type="CT_RAW" Source="FFAE75B5" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="FFC8EA62" />
+        <Background Type="CT_RAW" Source="FF800080" />
         <Foreground Type="CT_RAW" Source="FFFF00FF" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
@@ -2454,8 +2454,8 @@
         <Foreground Type="CT_RAW" Source="FF825000" />
       </Color>
       <Color Name="CodeAnalysisKeyEventSelection">
-        <Background Type="CT_RAW" Source="FF6E5000" />
-        <Foreground Type="CT_RAW" Source="FF6E5000" />
+        <Background Type="CT_RAW" Source="FF808080" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CodeAnalysisLineTraceSelection">
         <Background Type="CT_RAW" Source="FF333333" />
@@ -2514,7 +2514,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_RAW" Source="FF48830E" />
+        <Background Type="CT_RAW" Source="FF800000" />
         <Foreground Type="CT_RAW" Source="FFC0D3AD" />
       </Color>
       <Color Name="RenameTrackingTag">
@@ -8497,7 +8497,7 @@
       </Color>
       <Color Name="Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFB00F4" />
+        <Foreground Type="CT_RAW" Source="FF0076E1" />
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8674,7 +8674,7 @@
         <Foreground Type="CT_RAW" Source="FFFF00FF" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FFD67829" />
+        <Background Type="CT_RAW" Source="FF808080" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -8836,7 +8836,7 @@
         <Foreground Type="CT_RAW" Source="FFFFDBA3" />
       </Color>
       <Color Name="Current Statement">
-        <Background Type="CT_RAW" Source="FFFFEE62" />
+        <Background Type="CT_RAW" Source="FF808080" />
         <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Executing Thread IP">
